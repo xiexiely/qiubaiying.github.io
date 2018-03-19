@@ -1,21 +1,11 @@
-# Site settings
-<<<<<<< HEAD
-title: my diary
-SEOTitle: my diary
-header-img: img/post-bg-desk.jpg
-email: xie1018532131@gmail.com
-description: "热夏 你归来 听蝉 再游于 北方 知寒 沿途 不枉为 少年 终有个 结局圆满 ."
-keyword: "梓敬的博客"
-url: "http://xiexiely.github.io"          # your host, for absolute URL
-=======
+# Site setting
 title: The diary
 SEOTitle:  Xie Diary
 header-img: img/post-bg-desk.jpg
 email: xie1018532131@gmail.com
 description: "热夏 你归来 听蝉 再游于 北方 知寒 沿途 不枉为 少年 终有个 结局圆满。"
 keyword: "梓敬的博客"
-url: "http://xiexiely.github.io"          # your host, for absolute URL
->>>>>>> 08dfe8d7ed3d2db8e616b32ac331eb0cc8e3bddc
+url: "http://xiexiely.github.io"          # your host, for absolute UR
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xiexiely/xiexiely.github.io.git" # you code repository
 
